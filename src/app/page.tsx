@@ -33,7 +33,7 @@ export default function Home() {
         <div className="container mx-auto">
           <div className="flex flex-wrap items-center">
             <div className="-mt-32 ml-auto mr-auto w-10/12 px-12 md:w-6/12 md:px-4 lg:w-4/12">
-              <div className="bg-slate-700 relative mb-6 flex w-full min-w-0 flex-col break-words rounded-lg bg-white shadow-lg">
+              <div className="bg-slate-700 relative mb-6 flex w-full min-w-0 flex-col break-words rounded-lg shadow-lg">
                 <img alt="..." src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=700&amp;q=80" className="w-full rounded-t-lg align-middle" />
                 <blockquote className="relative mb-4 p-8">
                   <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583 95" className="h-95-px -top-16 absolute left-0 block w-full"><polygon points="-30,95 583,95 583,65" className="text-slate-700 fill-current"></polygon></svg>
